@@ -1,0 +1,1 @@
+format the flag as CSF-CYBSEC{Brand-letter-#}
